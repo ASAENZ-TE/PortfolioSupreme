@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name":"Aldo Saenz",
+    "occupation":"Jack of All Trades",
+    "description":"A new web developer with full stack training, out here trying to learn as much as possible.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a web developer who has recently graduated from an intensive 6 month boot camp at Denver University in Denver, CO. I found an interest in coding and programming from a long time passion for video games, but problem solving and taking on big challenges has always been a big part of who I am. I've done a little bit of everyhing; I graduated Regis University in 2017 with a triple major in International Business, Management and Finance. I've interned at an Engineering Firm, a Law Firm and an Accounting firm all while I was still in highschool. In college I served tables, worked as a membership salesman, a nonprofit worker, a tutor, a student teacher, a construction worker and found myself working at a Fortune 500 insurance company for over 5 years. There I started off as an intern, moved into a notice of loss position, followed by a dispatch and auto appraisal assgner, and even handled claims from start to finish in multiple business lines including property, personal auto and general liability. All the while I became a chair for the Hispanic Latino Diversity Network, a chair for DIDT (which stood for the Diverse Intern Development Team meant to help interns from diverse backgrounds transition smoothly into the corporate world), and a chair for WIAA (a group meant to empower Women in Actuarial & Analytics). I loved being able to tackle so many different kind of problems and obstacles, working them start to finish until finding a resolution. Eventually I moved back into a career in contruction, doing drywall, tape & texture, and although I love working with my hands and seeing the impact I can have on someone's life, home or business space, I missed the pace and creativity that came from some of my previous roles. The answer: get really good at programming!",
+    "contactmessage":"Please feel free to contact me with questions!",
+    "email": "sa3nz.ast@gmail.com",
+    "phone": "303-478-6674",
+    "address":{
+      "street":"7790 Ladore Street",
+      "city":"Commerce City",
+      "state":"CO.",
+      "zip": "80022"
+    },
+    "website": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "resumedownload":"https://www.youtube.com/watch?v=FGBhQbmPwH8",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/ASAENZ-TE",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Just so you know what we're working with:",
+    "education":[
+      {
+        "school":"Denver University through Trilogy",
+        "degree":"Coding Bootcamp",
+        "graduated":"March 2020",
+        "description":"HTML, CSS, JavaScript, Jquery, Node Js, Express, MySQL, Sequelize, MongoDB, Mongoose and my personal favorite: React!"
+      },
+    
+        {
+        "school":"Regis University",
+        "degree":"International Business, Management & Finance w/ a minor in Spanish",
+        "graduated":"May 2017",
+        "description":"I triple majored with a minor, learned a lot and still managed to graduate debt free!"
+      }
+    ],
+    "work":[
+      {
+        "company":"K&C Construction",
+        "title":"Drywall Tape & Texture",
+        "years":"Oct 2018 - present",
+        "description":"Creating efficient and aesthetic solutions to new builds and renovations, both residential and commercial."
+      },
+      {
+        "company":"Travelers Insurance",
+        "title":"Intern, Notice of Loss Coordinator, Auto Appraisal Dispatcher, Auto, GL & Property Claim Rep., Chair of Multiple Diversity Networks",
+        "years":"June 2014 - Oct. 2018",
+        "description":"What started as an internship lead to a fascinating career where I got to be part detective, part lawyer, part doctor & counselor; and people said insurance was boring!"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"JQuery",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL & MongoDB",
+        "level":"75%"
+      },
+      {
+        "name":"React Js",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fitness Tracker",
+        "category":"An app that helps you keep monitor and review your workouts!",
+        "image":"fitnessapp.jpg",
+        "url":"https://enigmatic-forest-33269.herokuapp.com/"
+      },
+      {
+        "title":"Day Planner",
+        "category":"An app to stay on top of your day, don't let your dreams be just dreams!",
+        "image":"dayplanner.jpg",
+        "url":"https://asaenz-te.github.io/WorkDayScheduler/"
+      },
+      {
+        "title":"BattleBros",
+        "category":"A website we designed to help plan ahead for battlebot tournaments!",
+        "image":"battlebots.jpg",
+        "url":"https://stormy-stream-33603.herokuapp.com/fight"
+      },
+      {
+        "title":"Weather Dashboard",
+        "category":"An interactive app that helps you plan your trips ahead of time!",
+        "image":"weatherdashboard.jpg",
+        "url":"https://asaenz-te.github.io/WeatherDashboard/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"“Sometimes it is the smallest thing that saves us: the weather growing cold, a child's smile, and a cup of excellent coffee.",
+        "user":"Jonathon Carroll"
+      },
+      {
+        "text":"We all die. The goal isn't to live forever, the goal is to create something that will.",
+        "user":"Chuck Palahniuk"
+      }
+    ]
+  }
+}
